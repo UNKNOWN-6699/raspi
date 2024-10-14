@@ -10,3 +10,4 @@ reboot sudo webiopi -d -c /etc/webiopi/config
 After issuing the command above on the pi, point the web browser of your computer connected to the raspberry pi to http://raspberrypi.mshome.net:8000 or http;//thepi’sIPaddress:8000. The system will prompt you for username and password. 
 Username is webiopi 
 Password is raspberry 
+http://raspberrypi.mshome.net:8000 or http;//thepi’sIPaddress:8000.
